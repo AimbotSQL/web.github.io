@@ -13,6 +13,11 @@
       "sizes": "192x192"
     },
     {
+      "src": "E3HR-xxl.jpeg",
+      "type": "/public/E3HR-xxl.jpeg",
+      "sizes": "192x192"
+    },
+    {
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
